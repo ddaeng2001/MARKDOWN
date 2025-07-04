@@ -61,7 +61,11 @@ HELLO WORLD<br>
 <a href="https://naver.com" target="_blank">새탭 열고 이동</a>
 
 # 이미지
+![제목](./test.jpg)
 
+-------------
+
+<img src="./test.jpg" width="300" height="200" alt="" />
 
 # 인용문
 > HELLO WORLD
@@ -76,7 +80,17 @@ HELLO WORLD<br>
 |내용2|:hhhhhhhhhhh:|
 |내용3|-|
 
-
+# 코드블럭
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+ </head>
+ <body>
+ </body>
+    <h1>HELLO WORLD</h1>
+</html>
+```
 
 
 
